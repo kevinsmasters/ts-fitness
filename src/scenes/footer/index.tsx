@@ -16,8 +16,15 @@ const Footer = (props: Props) => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
+          <p className="my-5">blah bla bladdiy blah</p>
+          <p className="my-5">blah bla bladdiy blah</p>
+          <p>blah</p>
         </div>
-        <div></div>
+        <div className="mt-16 basis-1/4 md:mt-0">
+          <h4 className="font-bold">Contact Us</h4>
+          <p className="my-5">blah bla bladdiy blah</p>
+          <p>blah</p>
+        </div>
       </div>
     </footer>
   );
